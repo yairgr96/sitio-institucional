@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "Taller de Actualización Normativa",
+        "fecha": "2026-10-15",
+        "lugar": "Auditorio Principal, Sede CDMX",
+        "descripcion": "Sesión presencial para la revisión de los nuevos lineamientos operativos y financieros del último trimestre."
+    },
+    {
+        "id": 2,
+        "titulo": "Jornada de Salud y Prevención",
+        "fecha": "2026-11-05",
+        "lugar": "Explanada Central",
+        "descripcion": "Campaña de vacunación y chequeos médicos generales para todo el personal de la institución."
+    }
+]

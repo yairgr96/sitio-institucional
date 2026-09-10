@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "titulo": "Nueva plataforma de atención ciudadana",
+        "fecha": "2026-09-10",
+        "imagen": "noticia1.jpg",
+        "resumen": "Se ha lanzado una nueva plataforma para agilizar los trámites institucionales.",
+        "contenido": "<p>El día de hoy se inauguró el nuevo portal de atención. Este esfuerzo busca modernizar la infraestructura tecnológica y reducir los tiempos de espera.<\/p><p>Invitamos a todos los usuarios a revisar los nuevos lineamientos.<\/p>",
+        "video": ""
+    },
+    {
+        "id": 2,
+        "titulo": "Torneo relámpago de fútbol institucional",
+        "fecha": "2026-09-15",
+        "imagen": "noticia2.jpg",
+        "resumen": "Participa en el próximo torneo deportivo para fomentar la convivencia entre áreas.",
+        "contenido": "<p>Están abiertas las inscripciones para el torneo de fútbol de este mes. Los partidos se llevarán a cabo los fines de semana.<\/p><p>Arma tu equipo, prepara tus zapatos deportivos y regístrate antes del viernes.<\/p>",
+        "video": "https:\/\/www.youtube.com\/embed\/ejemplo"
+    },
+    {
+        "id": 3,
+        "titulo": "Test Noticia",
+        "fecha": "2026-09-10",
+        "imagen": "1789074301_BATMAN.jpg",
+        "resumen": "RESUMEN corto que aparecera en la pagina principal de noticias",
+        "contenido": "<p>Escribe tu primer párrafo aquí.<\/p><p>Escribe el segundo párrafo aquí.<\/p>",
+        "video": "https:\/\/www.youtube.com\/watch?v=lAr_uspgHm8"
+    }
+]
